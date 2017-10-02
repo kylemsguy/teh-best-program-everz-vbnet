@@ -5,11 +5,11 @@ This is supposed to be a joke program that I wrote to be nostalgic, since VB.net
 
 My only excuse is that I was bored. Of haskell.
 
-![Screenshot of program and IDE](https://dl.dropboxusercontent.com/u/7351910/Screenshot%202015-03-17%2017.11.05.png)
+![Screenshot of program and IDE](http://kylemsguy.github.io/teh-best-program-everz-vbnet/Screenshot%202015-03-17%2017.11.05.png)
 
 EDIT: I made a version in VB6. Actually several but the IDE kept crashing and I kept forgetting to save. See the vb6/ folder for the source. 
 
-![Screenshot of VB6 version and IDE](https://dl.dropboxusercontent.com/u/7351910/random_vb6_thing.png)
+![Screenshot of VB6 version and IDE](http://kylemsguy.github.io/teh-best-program-everz-vbnet/random_vb6_thing.png)
 
 Released under the WTFPL v2.0
 
